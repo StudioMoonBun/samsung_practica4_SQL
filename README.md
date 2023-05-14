@@ -1,2 +1,2 @@
 # samsung_practica4_SQL
-Samsung desarrolladoras 2022 | Practica 4 | SQL
+En este ejercicio se pedia segir los pasos para poder crear una tabla de BBDD en SQL.
